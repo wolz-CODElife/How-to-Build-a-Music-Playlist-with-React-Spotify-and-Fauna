@@ -1,4 +1,4 @@
-# How-to-Build-a-Music-Playlist-with-React-Spotify-and-Fauna
+# How to Build a Music Playlist with React Spotify and Fauna
 
 *Written in connection with the Write with Fauna Program.*
 
